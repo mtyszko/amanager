@@ -1,0 +1,13 @@
+{
+	"name": "amanager",
+	"version": "1.0.0",
+	"description": "",
+	"private": true,
+	"scripts": {},
+	"workspaces": [
+		"./abackend",
+		"./afrontnd"
+	],
+	"author": "mtdev",
+	"license": "BSD 3-Clause License"
+}
