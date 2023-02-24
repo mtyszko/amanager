@@ -1,0 +1,6 @@
+.DS_Store
+template_server.code-workspace
+
+*.env
+
+/node_modules

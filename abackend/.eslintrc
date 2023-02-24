@@ -1,0 +1,28 @@
+{
+  "extends": ["airbnb", "prettier"],
+  "env": {
+    "node": true,
+    "es6": true,
+    "jest": true
+  },
+  "globals": {
+    "document": true,
+    "window": true,
+    "fetch": true,
+    "navigator": true
+  },
+  "rules": {
+    "no-unused-vars": "off",
+    "no-console": "off",
+    "func-names": "off",
+    "no-process-exit": "off",
+    "object-shorthand": "off",
+    "class-methods-use-this": "off",
+    "no-use-before-define": "off",
+    "no-param-reassign": "off",
+    "import/no-unresolved": 0,
+    "import/no-extraneous-dependencies": 0,
+    "import/prefer-default-export": 0,
+    "default-case": 0
+  }
+}
